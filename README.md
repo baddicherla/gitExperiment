@@ -1,4 +1,4 @@
 # gitExperiment
-just a git eperiment
+just a git experiment
 new line in remote
 added in remote again
