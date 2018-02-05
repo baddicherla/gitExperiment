@@ -1,6 +1,6 @@
 # gitExperiment
-just a git eperiment - this line is not correct spelling
+just a git experiment - this line is not correct spelling
 new line in remote
-
+added in remote again
 
 This is new line in local
